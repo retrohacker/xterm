@@ -1,5 +1,5 @@
 !Set the font family and size
-xterm*faceName: Source Code Pro:size=10:antialias=true
+xterm*faceName: Source Code Pro:size=8:antialias=true
 ! Molokai theme
 *xterm*background: #101010
 *xterm*foreground: #d0d0d0
